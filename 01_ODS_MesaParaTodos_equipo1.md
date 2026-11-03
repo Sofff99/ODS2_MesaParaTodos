@@ -1,8 +1,12 @@
 Roles
 Product Owner (PO): Victoria Karras Verdad 
+
 Líder Técnico (Tech Lead): Maria Fernanda Durón Garza
-Desarrollador UI (Interfaz de Usuario): Sofia Rodriguez Elizondo 
+
+Desarrollador UI (Interfaz de Usuario): Sofia Rodriguez Elizondo
+
 Desarrollador de Datos/API: Greta Basurto Pous
+
 QA / Analista de Pruebas:  Natalia Zuñiga Karras
 
 
